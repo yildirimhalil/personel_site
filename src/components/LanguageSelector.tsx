@@ -2,6 +2,8 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { Globe } from 'lucide-react';
 import { useStore } from '../store/useStore';
+import { translations } from "../data/translations";
+  
 
 const languages = [
   { code: 'tr', name: 'Türkçe', flag: '🇹🇷' },

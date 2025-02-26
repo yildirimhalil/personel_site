@@ -4,7 +4,7 @@ export const translations = {
     title: 'Full Stack Geliştirici',
     about: 'Hakkımda',
     skills: 'Teknolojiler',
-    services: 'Hizmetlerimiz',
+    services: 'Hizmetler',
     projects: 'Projeler',
     contact: 'İletişim',
     description: '.Net Core & React Full Stack Geliştiricisi olarak modern web uygulamaları geliştiriyorum.',
@@ -13,10 +13,13 @@ export const translations = {
     backend: 'Backend',
     database: 'Veritabanı',
     tools: 'Araçlar',
+    followMe: 'Beni Takip Edin',
+    followMeDetails: 'Herhangi bir sorunuz veya iş birliği fırsatınız varsa, benimle iletişime geçmekten çekinmeyin! Size yardımcı olmaktan mutluluk duyarım. Yazışarak, yeni fırsatlar yaratabiliriz!',
     titleSequence: [
-      'Full Stack Geliştirici',
-      'Yazılım geliştirmeye tutkulu bir full stack geliştiricisiyim.',
-      '.net & react ve daha fazlasıyla geliştiriyorum.',
+      'Full Stack Geliştirici.',
+      'Yazılım geliştirmeye tutkuluyum.',
+      '.Net Core & React ve daha fazlası ile...',
+      "Fikirlere yaratıcılık katıyorum",
     ],
     contactForm: {
       name: 'Adınız',
@@ -38,7 +41,7 @@ export const translations = {
       {
         title: 'Yapay Zeka Çözümleri',
         description: 'Python ve modern AI kütüphaneleri kullanarak, işletmeniz için özel yapay zeka çözümleri geliştiriyorum. Veri analizi, tahminleme ve optimizasyon projeleriniz için çözümler sunuyorum.',
-        image: 'https://images.unsplash.com/photo-1677442136019-21780ecad095?q=80&w=2432&auto=format&fit=crop',
+        image: 'https://sidgs.com/wp-content/uploads/2022/12/1500-x-914-AI-Solutions-A-Guide-to-Getting-Started.jpg?q=80&w=2432&auto=format&fit=crop',
       },
     ],
     projectsList: [
@@ -59,7 +62,7 @@ export const translations = {
       {
         title: 'Yapay Zeka Görüntü Üreteci',
         description: 'Makine öğrenimi modellerini kullanarak metin açıklamalarına dayalı benzersiz sanat eserleri oluşturan yapay zeka destekli bir görüntü oluşturma aracı.',
-        image: 'https://images.unsplash.com/photo-1677442136019-21780ecad095?q=80&w=2432&auto=format&fit=crop',
+        image: 'https://sidgs.com/wp-content/uploads/2022/12/1500-x-914-AI-Solutions-A-Guide-to-Getting-Started.jpg',
         technologies: ['React', 'Python', 'TensorFlow', 'FastAPI', 'Tailwind CSS'],
         githubUrl: 'https://github.com/yourusername/ai-image-generator',
       },
@@ -79,6 +82,8 @@ export const translations = {
     backend: 'Backend',
     database: 'Database',
     tools: 'Tools',
+    followMe: 'Follow Me',
+    followMeDetails: 'If you have any questions or cooperation opportunities, do not hesitate to contact me! I am happy to help you. By writing, we can create new opportunities!',
     titleSequence: [
       'Full Stack Developer',
       'A passionate full stack developer dedicated to software development.',

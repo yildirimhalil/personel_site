@@ -27,7 +27,7 @@ export const skills = {
     },
     {
       name: 'Tailwind CSS',
-      icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg',
+      icon: 'https://shadowblood.gallerycdn.vsassets.io/extensions/shadowblood/tailwind-moon/3.0.2/1673948732518/Microsoft.VisualStudio.Services.Icons.Default',
       description: 'Modern CSS framework',
     },
   ],
@@ -39,7 +39,7 @@ export const skills = {
     },
     {
       name: '.NET Core',
-      icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg',
+      icon: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png',
       description: 'Modern web uygulamaları',
     },
     {
@@ -73,7 +73,7 @@ export const skills = {
     },
     {
       name: 'Visual Studio',
-      icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg',
+      icon: 'https://images.seeklogo.com/logo-png/45/2/visual-studio-icon-2022-logo-png_seeklogo-453471.png',
       description: 'IDE',
     },
     {
